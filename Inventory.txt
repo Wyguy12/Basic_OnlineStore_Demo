@@ -1,0 +1,8 @@
+music|History|Michael Jackson|12/4/2007|Epic|MJJ Productions Inc.|42|Funk|12.30|200
+music|Thriller|Michael Jackson|12/4/2007|Epic|MJJ Productions Inc.|42|Funk|13.30|500
+software|NetBeans|8.2|0.00|1000
+software|Photoshop|11|99.50|1000
+music|Off The Wall|Michael Jackson|12/4/2007|Epic|MJJ Productions Inc.|42|Funk|15.30|300
+book|Ishmael:A Novel|Daniel Quinn|Paperback|Bantam|1995|10.31|15
+book|Intro to Java Programming|Daniel Liang|Pearson|10|2014|38.49|200
+music|Red|Taylor Swift|6/17/2017|Big Machine Records, LLC|Big Machine Records|64|Funk|11.99|1500
